@@ -53,6 +53,4 @@ TicTacToe/
 - **Improved Styling**: Enhance the visual design with animations and better responsiveness.
 - **Score Tracking**: Add a scoreboard to track multiple matches.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
